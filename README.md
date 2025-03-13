@@ -8,7 +8,7 @@ Excited to share my latest project—a simple yet powerful **Image Search App**!
 ![Image Search App](Image-Search-App.png)  
 
 ## 🔗 Live Demo  
-👉 [Try it here](https://your-live-demo-link.com)  
+👉 [Try it here](https://chaitu1277.github.io/Image-Search-App/)  
 
 ## 🔹 Tech Stack  
 ✅ HTML, CSS, JavaScript  
